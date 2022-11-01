@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ooP
 {
-    internal class Raziyat : Program.Coding
+    internal class Raziyat : Coding
     {
         public int modelVideo { get; set; }
         public int modelProc { get; set; }

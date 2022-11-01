@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ooP
 {
-    internal class Magomed : Program.Coding
+    internal class Magomed : Coding
     {
         public int modelVideo { get; set; }
         public int modelProc { get; set; }
