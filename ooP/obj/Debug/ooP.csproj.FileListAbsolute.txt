@@ -1,0 +1,8 @@
+E:\проекты\ooP\ooP\bin\Debug\ooP.exe.config
+E:\проекты\ooP\ooP\bin\Debug\ooP.exe
+E:\проекты\ooP\ooP\bin\Debug\ooP.pdb
+E:\проекты\ooP\ooP\obj\Debug\ooP.csproj.AssemblyReference.cache
+E:\проекты\ooP\ooP\obj\Debug\ooP.csproj.SuggestedBindingRedirects.cache
+E:\проекты\ooP\ooP\obj\Debug\ooP.csproj.CoreCompileInputs.cache
+E:\проекты\ooP\ooP\obj\Debug\ooP.exe
+E:\проекты\ooP\ooP\obj\Debug\ooP.pdb
